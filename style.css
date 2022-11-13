@@ -147,3 +147,18 @@ th,td {
   .hide{
     display: none;
   }
+
+  .visitor h3, span{
+    font-size: 25px;
+    color: white;
+    letter-spacing: 10px;
+ }
+
+ .visitor{
+    display: flex;
+    justify-content: center;
+    border-radius: 7px;
+    margin-top: 20px;
+    background: rgb(23, 22, 22);
+    padding: 10px;
+ }
